@@ -41,6 +41,8 @@ div.text {
 
 .flex-container {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* this selector selects all divs inside of .flex-container */
