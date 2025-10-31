@@ -59,3 +59,7 @@ div.text {
 .flex-container .two {
   flex-shrink: 0;
 }
+
+* {
+  max-width: 100%;
+}
