@@ -49,6 +49,8 @@ div.text {
 .flex-container div {
   background: peachpuff;
   border: 4px solid brown;
+  align-items: center;
+  justify-content: center;
   height: 100px;
   width: 250px;
   flex: 1 1 auto;
